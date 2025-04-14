@@ -24,8 +24,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Suricata
 
 ## Certifications
-Google Cybersecurity Professional Certificate
-Security+ (In progress)
+- Google Cybersecurity Professional Certificate
+- Security+ (In progress)
 
 ## Projects
 - Active Directory Lab
