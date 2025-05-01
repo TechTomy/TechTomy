@@ -9,7 +9,6 @@ I've been interested in tech, more specifically cybersecurity, for a 2+ years. I
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 - SQL
 - Kali Linux
@@ -24,7 +23,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Suricata
 
 ## Certifications
-- Google Cybersecurity Professional Certificate
+- [Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/18p6d_h5mT9rN1_kodsF5YYIZszr7EjwF/view?usp=drive_link)
 - Security+ (In progress)
 
 ## Projects
