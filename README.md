@@ -27,5 +27,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - Security+ (In progress)
 
 ## Projects
-- Active Directory Lab
+- [Azure Active Directory Lab](https://github.com/TechTomy/AzureAD)
 - SOC Automation Project
