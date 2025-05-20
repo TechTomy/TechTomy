@@ -24,7 +24,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 - [Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/18p6d_h5mT9rN1_kodsF5YYIZszr7EjwF/view?usp=drive_link)
-- Security+ (In progress)
+- [Security+](https://drive.google.com/file/d/18p6d_h5mT9rN1_kodsF5YYIZszr7EjwF/view?usp=drive_link)
 
 ## Projects
 - [Azure Active Directory Lab](https://github.com/TechTomy/AzureAD)
