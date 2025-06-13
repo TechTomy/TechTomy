@@ -8,6 +8,11 @@ I've been interested in tech, more specifically cybersecurity, for a 2+ years. I
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
+## Projects
+- **[Azure Active Directory Lab](https://github.com/TechTomy/AzureAD)**
+- **[Vulnerability Management Program Implementation](https://github.com/TechTomy/program-vulnerability-management)**
+-
+
 ## Skills
 
 - SQL
@@ -26,6 +31,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - [Google Cybersecurity Professional Certificate](https://drive.google.com/file/d/18p6d_h5mT9rN1_kodsF5YYIZszr7EjwF/view?usp=drive_link)
 - [Security+](https://drive.google.com/file/d/18p6d_h5mT9rN1_kodsF5YYIZszr7EjwF/view?usp=drive_link)
 
-## Projects
-- [Azure Active Directory Lab](https://github.com/TechTomy/AzureAD)
-- SOC Automation Project
+
