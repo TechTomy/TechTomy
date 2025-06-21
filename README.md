@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - **[Azure Active Directory Lab](https://github.com/TechTomy/AzureAD)**
 - **[Vulnerability Management Program Implementation](https://github.com/TechTomy/program-vulnerability-management)**
--
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/TechTomy/threat-hunting-scenario-tor/tree/main)**
 
 ## Skills
 
