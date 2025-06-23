@@ -1,17 +1,21 @@
-# Hello, I'm Tomy!
+# Hey there, I'm Tomy! Welcome to my IT/Cybersecurity Project Portfolio!  🔐
 <a href="https://www.linkedin.com/in/tomyboboy/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I've been interested in tech, more specifically cybersecurity, for a 2+ years. I spent some time in the financial services industry with a profound interest in technology and a dedication to solving complex problems.
+I've been interested in tech, more specifically cybersecurity, for about 2+ years. I spent some time in the financial services industry with a profound interest in technology and a dedication to solving complex problems. Check out my projects below to see more of my work and interests.
 
-## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
-
-## Projects
-- **[Azure Active Directory Lab](https://github.com/TechTomy/AzureAD)**
+## ⛔️ Vulnerability Management Projects
 - **[Vulnerability Management Program Implementation](https://github.com/TechTomy/program-vulnerability-management)**
+- 
+
+## 🎯 Threat Hunting & SecOps Projects
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/TechTomy/threat-hunting-scenario-tor/tree/main)**
+
+## 🖥️ Miscellaneous Projects
+- **[Azure Active Directory Lab](https://github.com/TechTomy/AzureAD)**
+
+
 
 ## Skills
 
