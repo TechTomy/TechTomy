@@ -1,19 +1,28 @@
-# Hey there, I'm Tomy! Welcome to my IT/Cybersecurity Project Portfolio!  🔐
-<a href="https://www.linkedin.com/in/tomyboboy/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-
+# Hey there, I'm [Tomy](https://www.linkedin.com/in/tomyboboy/)! Welcome to my Cybersecurity Project Portfolio!  🔐
 I've been interested in tech, more specifically cybersecurity, for about 2+ years. I spent some time in the financial services industry with a profound interest in technology and a dedication to solving complex problems. Check out my projects below to see more of my work and interests.
+</br>
 
+## Connect With Me
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/tomyboboy/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:itstomyboboy@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@tomy)
+ </br>
 
 ## ⛔️ Vulnerability Management Projects
 - **[Vulnerability Management Program Implementation](https://github.com/TechTomy/program-vulnerability-management)**
-- 
+  Implementation of a comprehensive vulnerability management program
+- **[Programmatic Vulnerability Remediations](https://github.com/TechTomy/Programmatic-Vulnerability-Remediations)**
+  Remediations created using Powershell/Bash (DISA STIG compliant)
+</br>
 
 ## 🎯 Threat Hunting & SecOps Projects
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/TechTomy/threat-hunting-scenario-tor/tree/main)**
+  Unauthorized usage of Tor Browser on corporate device
+</br>
 
 ## 🖥️ Miscellaneous Projects
-- **[Azure Active Directory Lab](https://github.com/TechTomy/AzureAD)**
+- **[Azure Instance - Microsoft Active Directory Lab](https://github.com/TechTomy/AzureAD)**
 
 
 
