@@ -11,14 +11,14 @@ I've been interested in tech, more specifically cybersecurity, for about 2+ year
 
 ## ⛔️ Vulnerability Management Projects
 - **[Vulnerability Management Program Implementation](https://github.com/TechTomy/program-vulnerability-management)**
-  Implementation of a comprehensive vulnerability management program
+   </br>Implementation of a comprehensive vulnerability management program
 - **[Programmatic Vulnerability Remediations](https://github.com/TechTomy/Programmatic-Vulnerability-Remediations)**
-  Remediations created using Powershell/Bash (DISA STIG compliant)
+   </br>Remediations created using Powershell/Bash (DISA STIG compliant)
 </br>
 
 ## 🎯 Threat Hunting & SecOps Projects
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/TechTomy/threat-hunting-scenario-tor/tree/main)**
-  Unauthorized usage of Tor Browser on corporate device
+   </br>Unauthorized usage of Tor Browser on corporate device
 </br>
 
 ## 🖥️ Miscellaneous Projects
