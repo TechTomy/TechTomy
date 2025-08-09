@@ -19,8 +19,8 @@ I've been interested in tech, more specifically cybersecurity, for about 2+ year
 ## 🎯 Threat Hunting & SecOps Projects
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/TechTomy/threat-hunting-scenario-tor/tree/main)**
    </br>Unauthorized usage of Tor Browser on corporate device
-- **[Malicious Link (T1204.002) - Atomic Test #12 - ClickFix Campaign - Abuse RunMRU to Launch mshta via PowerShell](https://github.com/TechTomy/T1204-MaliciousLink)**
-   </br> Leveraging Atomic Red Team T1204.002 to simulate ClickFix attack
+- **[Malicious Link (T1204.002) - ClickFix Campaign - Abuse RunMRU to Launch mshta via PowerShell](https://github.com/TechTomy/T1204-MaliciousLink)**
+   </br> Leveraging Atomic Red Team T1204.002 (Atomic Test #12) to simulate ClickFix attack
 </br>
 
 ## 🖥️ Miscellaneous Projects
