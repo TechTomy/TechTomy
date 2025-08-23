@@ -12,7 +12,7 @@ I've been interested in tech, more specifically cybersecurity, for about 2+ year
 ## ⛔️ Vulnerability Management Projects
 - **[Vulnerability Management Program Implementation](https://github.com/TechTomy/program-vulnerability-management)**
    </br>Implementation of a comprehensive vulnerability management program
-- **[Programmatic Vulnerability Remediations](https://github.com/TechTomy/Programmatic-Vulnerability-Remediations)**
+- **[Programmatic Vulnerability Remediations](https://github.com/TechTomy/Programmatic-Vulnerability-Remediations/blob/main/README.md)**
    </br>Remediations created using Powershell/Bash (DISA STIG compliant)
 </br>
 
